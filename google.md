@@ -1,5 +1,6 @@
-[https://www.google.com/search?q=xkarups.com
-https://www.google.ac/search?q=xkarups.com](https://images.google.co.kr/url?q=https://www.xkarups.com
+https://www.google.com/search?q=xkarups.com
+https://www.google.ac/search?q=xkarups.com
+https://images.google.co.kr/url?q=https://www.xkarups.com
 https://images.google.je/url?q=https://www.xkarups.com
 https://maps.google.com.jm/url?q=https://www.xkarups.com
 https://images.google.com.pa/url?q=https://www.xkarups.com
@@ -600,4 +601,3 @@ https://www.google.hn/search?q=xkarups.com
 https://www.google.it/search?q=xkarups.com
 https://www.google.com.tw/search?q=xkarups.com
 https://maps.google.nl/url?q=https://www.xkarups.com
-)
