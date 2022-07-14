@@ -1,3 +1,5 @@
+https://twitter.com/xkarupscom
+
 https://v.gd/emS4YB
 https://is.gd/xkarups
 https://v.gd/xkarups
